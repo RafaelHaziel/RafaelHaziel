@@ -13,6 +13,7 @@
 <div>
   <a href="https://beacons.ia/rafaelhaziel">
   <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhaziel&layout=compact&langs_count=16&theme=dark"/>
-</div>                                                                                                                          
- 
+</div>
+  
 ![Snake animation](https://github.com/rafaelhaziel/rafaelhaziel/blob/output/github-contribution-grid-snake.svg)
+ 
