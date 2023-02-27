@@ -12,7 +12,6 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/rafaelhaziel/rafaelhaziel/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
