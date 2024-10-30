@@ -18,7 +18,7 @@ I'm a dedicated software developer with a deep passion for programming, especial
 - **Backend**:
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-- **Game Engines**:
+- **Game Development**:
   ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
   ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white)
 
