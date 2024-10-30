@@ -1,23 +1,31 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+# Hello! I'm Haziel 👋
 
+🎮 **Game Developer** | 💻 **Programming Enthusiast** | 🤖 **Explorer of New Technologies**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Rafael+Haziel;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+I'm a dedicated software developer with a deep passion for programming, especially in game development. My work focuses on creating immersive and challenging experiences, blending creativity with technical precision to bring unique game concepts to life. I thrive on exploring advanced mechanics, optimizing performance, and implementing robust systems to elevate player engagement.
 
+### 👨‍🎓 Technical Skills
+- **Languages**:
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelhaziel&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=B0C4DE&bg_color=0d1117" alt="Rafael Haziel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhaziel&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
-</div>
+- **Game Development**:
+  ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+  ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white)
 
-<div align="center">
+- **Design Tools**:
+  ![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
-  
-</div>
+### 👀 Areas of Focus
+- Developing engaging and innovative game mechanics
+- Creating intuitive and interactive interfaces for 2D games
+- Exploring new methods to optimize performance and player experience
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaelhaziel}/count.svg" /></p> 
-<br>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+### ✌️ Let's Connect
+If you'd like to discuss game development, programming, or new tech trends, feel free to reach out on [LinkedIn](https://www.linkedin.com)!
